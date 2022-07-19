@@ -1,0 +1,12 @@
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\bin\Debug\net5.0\AppLogger.deps.json
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\bin\Debug\net5.0\AppLogger.dll
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\bin\Debug\net5.0\ref\AppLogger.dll
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\bin\Debug\net5.0\AppLogger.pdb
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\obj\Debug\net5.0\AppLogger.csproj.AssemblyReference.cache
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\obj\Debug\net5.0\AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\obj\Debug\net5.0\AppLogger.AssemblyInfoInputs.cache
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\obj\Debug\net5.0\AppLogger.AssemblyInfo.cs
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\obj\Debug\net5.0\AppLogger.csproj.CoreCompileInputs.cache
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\obj\Debug\net5.0\AppLogger.dll
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\obj\Debug\net5.0\ref\AppLogger.dll
+C:\Users\yehor.kyrychko\source\repos\Selenium\Selenium\AppLogger\obj\Debug\net5.0\AppLogger.pdb
